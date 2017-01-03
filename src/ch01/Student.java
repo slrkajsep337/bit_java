@@ -15,4 +15,5 @@ public class Student {
 	int age; // 나이
 	String email; // 이메일주소
 
+	
 }

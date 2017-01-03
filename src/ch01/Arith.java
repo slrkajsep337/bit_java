@@ -11,6 +11,7 @@ public class Arith {
 		System.out.println( a * b );
 		System.out.println( a / b );
 
+	
 		a = a + 1;
 		System.out.println(a);
 		 

@@ -43,6 +43,7 @@ public class Swap {
 		else {
 			System.out.println(a3);
 		}
+		
 	}
 
 }

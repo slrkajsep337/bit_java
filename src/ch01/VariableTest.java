@@ -30,6 +30,7 @@ public class VariableTest {
 		System.out.println(f);
 		System.out.println(d);
 		
+		
 		//*상수
 		final int MAX_SPEED = 20;//final은 변수를 상수로 바꿔주는 자료형(max_speed의 값을 바꿀 수 없음)
 								//클래스 앞에도 final을 사용할 수 있다 
