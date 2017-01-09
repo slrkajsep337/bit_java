@@ -9,7 +9,7 @@ public class IOTest {
 
 		int count1 = scanner.nextInt();
 		int count2 = scanner.nextInt();
-		String str = scanner.next();
+		//String str = scanner.next();
 		
 		System.out.println(count1 + ":" + count2);
 		
